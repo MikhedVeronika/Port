@@ -1,0 +1,331 @@
+12.03.2016 22:04:52 [main] INFO  com.epam.port.entity.Port - Creating port with piers count = 3
+12.03.2016 22:04:52 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 150
+12.03.2016 22:04:52 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 100 containers
+12.03.2016 22:04:52 [main] INFO  com.epam.port.entity.Warehouse - 100container(s) were added to warehouse successfully
+12.03.2016 22:04:52 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:05:44 [main] INFO  com.epam.port.entity.Port - Creating port with piers count = 3
+12.03.2016 22:05:44 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 150
+12.03.2016 22:05:44 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 100 containers
+12.03.2016 22:05:44 [main] INFO  com.epam.port.entity.Warehouse - 100container(s) were added to warehouse successfully
+12.03.2016 22:05:44 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:05:59 [main] INFO  com.epam.port.entity.Port - Creating port with piers count = 3
+12.03.2016 22:05:59 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 150
+12.03.2016 22:05:59 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 100 containers
+12.03.2016 22:05:59 [main] INFO  com.epam.port.entity.Warehouse - 100container(s) were added to warehouse successfully
+12.03.2016 22:05:59 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:06:03 [main] INFO  com.epam.port.entity.Port - Creating port with piers count = 3
+12.03.2016 22:06:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 150
+12.03.2016 22:06:09 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 100 containers
+12.03.2016 22:06:09 [main] INFO  com.epam.port.entity.Warehouse - 100container(s) were added to warehouse successfully
+12.03.2016 22:06:09 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Port - Creating port with piers count = 3
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 150
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 100 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 100container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Start creating ship №1
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 26
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Ship №1 created
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 10 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 10container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Start creating ship №2
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 29
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Ship №2 created
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 25 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 25container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Start creating ship №3
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 27
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Ship №3 created
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 6 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 6container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Start creating ship №4
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 29
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Ship №4 created
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 14 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 14container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Start creating ship №5
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 26
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Ship №5 created
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 8 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 8container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Start creating ship №6
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 10
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Ship №6 created
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 3 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 3container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Start creating ship №7
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 18
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Ship №7 created
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 5 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 5container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Start creating ship №8
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 25
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Ship - Ship №8 created
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 14 containers
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - 14container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:08:20 [Thread-0] INFO  com.epam.port.entity.Port - Ship №1 dock to pier №0
+12.03.2016 22:08:20 [Thread-0] INFO  com.epam.port.entity.Ship - Action 'loading on ship' was generated (pier №0)
+12.03.2016 22:08:20 [Thread-0] INFO  com.epam.port.entity.Ship - Ship №1 tries unload from port 16 container(s)
+12.03.2016 22:08:20 [Thread-0] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying take 16 containers
+12.03.2016 22:08:20 [Thread-0] INFO  com.epam.port.entity.Warehouse - 16container(s) were taken from warehouse successfully
+12.03.2016 22:08:20 [Thread-0] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [Thread-0] INFO  com.epam.port.entity.Ship - Ship №1 unloaded from port 16 container(s)
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:08:20 [Thread-1] INFO  com.epam.port.entity.Port - Ship №2 dock to pier №1
+12.03.2016 22:08:20 [Thread-1] INFO  com.epam.port.entity.Ship - Action 'loading on ship' was generated (pier №1)
+12.03.2016 22:08:20 [Thread-1] INFO  com.epam.port.entity.Ship - Ship №2 tries unload from port 4 container(s)
+12.03.2016 22:08:20 [Thread-1] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying take 4 containers
+12.03.2016 22:08:20 [Thread-1] INFO  com.epam.port.entity.Warehouse - 4container(s) were taken from warehouse successfully
+12.03.2016 22:08:20 [Thread-1] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [Thread-1] INFO  com.epam.port.entity.Ship - Ship №2 unloaded from port 4 container(s)
+12.03.2016 22:08:20 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:08:20 [Thread-2] INFO  com.epam.port.entity.Port - Ship №3 dock to pier №2
+12.03.2016 22:08:20 [Thread-2] INFO  com.epam.port.entity.Port - There are no free piers
+12.03.2016 22:08:20 [Thread-2] INFO  com.epam.port.entity.Ship - Action 'unloading from ship' was generated (pier №2)
+12.03.2016 22:08:20 [Thread-2] INFO  com.epam.port.entity.Ship - Ship №3 tries load to port 6 container(s)
+12.03.2016 22:08:20 [Thread-2] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 6 containers
+12.03.2016 22:08:20 [Thread-2] INFO  com.epam.port.entity.Warehouse - 6container(s) were added to warehouse successfully
+12.03.2016 22:08:20 [Thread-2] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:20 [Thread-2] INFO  com.epam.port.entity.Ship - Ship №3 loaded to port 6 container(s)
+12.03.2016 22:08:21 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:08:22 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:08:23 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:08:23 [Thread-1] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:08:23 [Thread-1] INFO  com.epam.port.entity.Port - Ship №2 left pier №1
+12.03.2016 22:08:23 [Thread-1] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:08:23 [Thread-1] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:08:24 [Thread-2] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:08:24 [Thread-2] INFO  com.epam.port.entity.Port - Ship №3 left pier №2
+12.03.2016 22:08:24 [Thread-2] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:08:24 [Thread-2] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:08:24 [Thread-0] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:08:24 [Thread-0] INFO  com.epam.port.entity.Port - Ship №1 left pier №0
+12.03.2016 22:08:24 [Thread-0] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:08:24 [Thread-0] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:08:24 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:08:24 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:08:24 [Thread-3] INFO  com.epam.port.entity.Port - Ship №4 dock to pier №1
+12.03.2016 22:08:24 [Thread-3] INFO  com.epam.port.entity.Ship - Action 'loading on ship' was generated (pier №1)
+12.03.2016 22:08:24 [Thread-4] INFO  com.epam.port.entity.Port - Ship №5 dock to pier №2
+12.03.2016 22:08:24 [Thread-3] INFO  com.epam.port.entity.Ship - Ship №4 tries unload from port 15 container(s)
+12.03.2016 22:08:24 [Thread-4] INFO  com.epam.port.entity.Ship - Action 'unloading from ship' was generated (pier №2)
+12.03.2016 22:08:24 [Thread-3] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying take 15 containers
+12.03.2016 22:08:24 [Thread-3] INFO  com.epam.port.entity.Warehouse - 15container(s) were taken from warehouse successfully
+12.03.2016 22:08:24 [Thread-3] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:24 [Thread-4] INFO  com.epam.port.entity.Ship - Ship №5 tries load to port 8 container(s)
+12.03.2016 22:08:24 [Thread-3] INFO  com.epam.port.entity.Ship - Ship №4 unloaded from port 15 container(s)
+12.03.2016 22:08:24 [Thread-4] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 8 containers
+12.03.2016 22:08:24 [Thread-4] INFO  com.epam.port.entity.Warehouse - 8container(s) were added to warehouse successfully
+12.03.2016 22:08:24 [Thread-4] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:24 [Thread-4] INFO  com.epam.port.entity.Ship - Ship №5 loaded to port 8 container(s)
+12.03.2016 22:08:24 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:08:24 [Thread-5] INFO  com.epam.port.entity.Port - Ship №6 dock to pier №0
+12.03.2016 22:08:24 [Thread-5] INFO  com.epam.port.entity.Port - There are no free piers
+12.03.2016 22:08:24 [Thread-5] INFO  com.epam.port.entity.Ship - Action 'unloading from ship' was generated (pier №0)
+12.03.2016 22:08:24 [Thread-5] INFO  com.epam.port.entity.Ship - Ship №6 tries load to port 3 container(s)
+12.03.2016 22:08:24 [Thread-5] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 3 containers
+12.03.2016 22:08:24 [Thread-5] INFO  com.epam.port.entity.Warehouse - 3container(s) were added to warehouse successfully
+12.03.2016 22:08:24 [Thread-5] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:24 [Thread-5] INFO  com.epam.port.entity.Ship - Ship №6 loaded to port 3 container(s)
+12.03.2016 22:08:25 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:08:26 [Thread-3] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:08:26 [Thread-3] INFO  com.epam.port.entity.Port - Ship №4 left pier №1
+12.03.2016 22:08:26 [Thread-3] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:08:26 [Thread-3] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:08:26 [Thread-4] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:08:26 [Thread-4] INFO  com.epam.port.entity.Port - Ship №5 left pier №2
+12.03.2016 22:08:26 [Thread-4] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:08:26 [Thread-4] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:08:26 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:08:26 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:08:26 [Thread-6] INFO  com.epam.port.entity.Port - Ship №7 dock to pier №1
+12.03.2016 22:08:26 [Thread-6] INFO  com.epam.port.entity.Ship - Action 'loading on ship' was generated (pier №1)
+12.03.2016 22:08:26 [Thread-7] INFO  com.epam.port.entity.Port - Ship №8 dock to pier №2
+12.03.2016 22:08:26 [Thread-7] INFO  com.epam.port.entity.Port - There are no free piers
+12.03.2016 22:08:26 [Thread-6] INFO  com.epam.port.entity.Ship - Ship №7 tries unload from port 13 container(s)
+12.03.2016 22:08:26 [Thread-7] INFO  com.epam.port.entity.Ship - Action 'unloading from ship' was generated (pier №2)
+12.03.2016 22:08:26 [Thread-6] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying take 13 containers
+12.03.2016 22:08:26 [Thread-7] INFO  com.epam.port.entity.Ship - Ship №8 tries load to port 14 container(s)
+12.03.2016 22:08:26 [Thread-6] INFO  com.epam.port.entity.Warehouse - 13container(s) were taken from warehouse successfully
+12.03.2016 22:08:26 [Thread-6] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:26 [Thread-6] INFO  com.epam.port.entity.Ship - Ship №7 unloaded from port 13 container(s)
+12.03.2016 22:08:26 [Thread-7] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 14 containers
+12.03.2016 22:08:26 [Thread-7] INFO  com.epam.port.entity.Warehouse - 14container(s) were added to warehouse successfully
+12.03.2016 22:08:26 [Thread-7] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:08:26 [Thread-7] INFO  com.epam.port.entity.Ship - Ship №8 loaded to port 14 container(s)
+12.03.2016 22:08:28 [Thread-5] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:08:28 [Thread-5] INFO  com.epam.port.entity.Port - Ship №6 left pier №0
+12.03.2016 22:08:28 [Thread-5] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:08:28 [Thread-5] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:08:28 [Thread-6] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:08:28 [Thread-6] INFO  com.epam.port.entity.Port - Ship №7 left pier №1
+12.03.2016 22:08:28 [Thread-6] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:08:28 [Thread-6] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:08:29 [Thread-7] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:08:29 [Thread-7] INFO  com.epam.port.entity.Port - Ship №8 left pier №2
+12.03.2016 22:08:29 [Thread-7] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:08:29 [Thread-7] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Port - Creating port with piers count = 3
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 150
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 100 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 100container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Start creating ship №1
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 25
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Ship №1 created
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 18 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 18container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Start creating ship №2
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 13
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Ship №2 created
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 3 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 3container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Start creating ship №3
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 21
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Ship №3 created
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 9 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 9container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Start creating ship №4
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 27
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Ship №4 created
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 16 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 16container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Start creating ship №5
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 29
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Ship №5 created
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 11 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 11container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Start creating ship №6
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 14
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Ship №6 created
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 8 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 8container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Start creating ship №7
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 6
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Ship №7 created
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 1 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 1container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Start creating ship №8
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Creating warehouse with size = 21
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Ship - Ship №8 created
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 2 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - 2container(s) were added to warehouse successfully
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:12:03 [Thread-0] INFO  com.epam.port.entity.Port - Ship №1 dock to pier №0
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:12:03 [Thread-0] INFO  com.epam.port.entity.Ship - Action 'loading on ship' was generated (pier №0)
+12.03.2016 22:12:03 [Thread-0] INFO  com.epam.port.entity.Ship - Ship №1 tries unload from port 7 container(s)
+12.03.2016 22:12:03 [Thread-0] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying take 7 containers
+12.03.2016 22:12:03 [Thread-0] INFO  com.epam.port.entity.Warehouse - 7container(s) were taken from warehouse successfully
+12.03.2016 22:12:03 [Thread-0] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [Thread-0] INFO  com.epam.port.entity.Ship - Ship №1 unloaded from port 7 container(s)
+12.03.2016 22:12:03 [Thread-1] INFO  com.epam.port.entity.Port - Ship №2 dock to pier №1
+12.03.2016 22:12:03 [Thread-1] INFO  com.epam.port.entity.Ship - Action 'loading on ship' was generated (pier №1)
+12.03.2016 22:12:03 [Thread-1] INFO  com.epam.port.entity.Ship - Ship №2 tries unload from port 10 container(s)
+12.03.2016 22:12:03 [Thread-1] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying take 10 containers
+12.03.2016 22:12:03 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:12:03 [Thread-1] INFO  com.epam.port.entity.Warehouse - 10container(s) were taken from warehouse successfully
+12.03.2016 22:12:03 [Thread-1] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [Thread-1] INFO  com.epam.port.entity.Ship - Ship №2 unloaded from port 10 container(s)
+12.03.2016 22:12:03 [Thread-2] INFO  com.epam.port.entity.Port - Ship №3 dock to pier №2
+12.03.2016 22:12:03 [Thread-2] INFO  com.epam.port.entity.Port - There are no free piers
+12.03.2016 22:12:03 [Thread-2] INFO  com.epam.port.entity.Ship - Action 'loading on ship' was generated (pier №2)
+12.03.2016 22:12:03 [Thread-2] INFO  com.epam.port.entity.Ship - Ship №3 tries unload from port 12 container(s)
+12.03.2016 22:12:03 [Thread-2] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying take 12 containers
+12.03.2016 22:12:03 [Thread-2] INFO  com.epam.port.entity.Warehouse - 12container(s) were taken from warehouse successfully
+12.03.2016 22:12:03 [Thread-2] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:03 [Thread-2] INFO  com.epam.port.entity.Ship - Ship №3 unloaded from port 12 container(s)
+12.03.2016 22:12:04 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:12:05 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:12:05 [Thread-0] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:12:05 [Thread-0] INFO  com.epam.port.entity.Port - Ship №1 left pier №0
+12.03.2016 22:12:05 [Thread-0] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:12:05 [Thread-0] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:12:05 [Thread-1] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:12:05 [Thread-1] INFO  com.epam.port.entity.Port - Ship №2 left pier №1
+12.03.2016 22:12:05 [Thread-1] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:12:05 [Thread-1] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:12:06 [Thread-2] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:12:06 [Thread-2] INFO  com.epam.port.entity.Port - Ship №3 left pier №2
+12.03.2016 22:12:06 [Thread-2] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:12:06 [Thread-2] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:12:06 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:12:06 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:12:06 [Thread-3] INFO  com.epam.port.entity.Port - Ship №4 dock to pier №0
+12.03.2016 22:12:06 [Thread-4] INFO  com.epam.port.entity.Port - Ship №5 dock to pier №1
+12.03.2016 22:12:06 [Thread-3] INFO  com.epam.port.entity.Ship - Action 'unloading from ship' was generated (pier №0)
+12.03.2016 22:12:06 [Thread-4] INFO  com.epam.port.entity.Ship - Action 'unloading from ship' was generated (pier №1)
+12.03.2016 22:12:06 [Thread-3] INFO  com.epam.port.entity.Ship - Ship №4 tries load to port 16 container(s)
+12.03.2016 22:12:06 [Thread-4] INFO  com.epam.port.entity.Ship - Ship №5 tries load to port 11 container(s)
+12.03.2016 22:12:06 [Thread-3] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 16 containers
+12.03.2016 22:12:06 [Thread-3] INFO  com.epam.port.entity.Warehouse - 16container(s) were added to warehouse successfully
+12.03.2016 22:12:06 [Thread-3] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:06 [Thread-3] INFO  com.epam.port.entity.Ship - Ship №4 loaded to port 16 container(s)
+12.03.2016 22:12:06 [Thread-4] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 11 containers
+12.03.2016 22:12:06 [Thread-4] INFO  com.epam.port.entity.Warehouse - 11container(s) were added to warehouse successfully
+12.03.2016 22:12:06 [Thread-4] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:06 [Thread-4] INFO  com.epam.port.entity.Ship - Ship №5 loaded to port 11 container(s)
+12.03.2016 22:12:06 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:12:06 [Thread-5] INFO  com.epam.port.entity.Port - Ship №6 dock to pier №2
+12.03.2016 22:12:06 [Thread-5] INFO  com.epam.port.entity.Port - There are no free piers
+12.03.2016 22:12:06 [Thread-5] INFO  com.epam.port.entity.Ship - Action 'loading on ship' was generated (pier №2)
+12.03.2016 22:12:06 [Thread-5] INFO  com.epam.port.entity.Ship - Ship №6 tries unload from port 6 container(s)
+12.03.2016 22:12:06 [Thread-5] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying take 6 containers
+12.03.2016 22:12:06 [Thread-5] INFO  com.epam.port.entity.Warehouse - 6container(s) were taken from warehouse successfully
+12.03.2016 22:12:06 [Thread-5] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:06 [Thread-5] INFO  com.epam.port.entity.Ship - Ship №6 unloaded from port 6 container(s)
+12.03.2016 22:12:07 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:12:08 [Thread-4] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:12:08 [Thread-4] INFO  com.epam.port.entity.Port - Ship №5 left pier №1
+12.03.2016 22:12:08 [Thread-4] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:12:08 [Thread-4] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:12:08 [Thread-3] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:12:08 [Thread-3] INFO  com.epam.port.entity.Port - Ship №4 left pier №0
+12.03.2016 22:12:08 [Thread-3] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:12:08 [Thread-3] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:12:08 [main] INFO  com.epam.port.entity.ShipsQueue - WAITING
+12.03.2016 22:12:08 [main] INFO  com.epam.port.entity.ShipsQueue - NEW THREAD CREATED
+12.03.2016 22:12:08 [Thread-6] INFO  com.epam.port.entity.Port - Ship №7 dock to pier №1
+12.03.2016 22:12:08 [Thread-6] INFO  com.epam.port.entity.Ship - Action 'unloading from ship' was generated (pier №1)
+12.03.2016 22:12:08 [Thread-6] INFO  com.epam.port.entity.Ship - Ship №7 tries load to port 1 container(s)
+12.03.2016 22:12:08 [Thread-7] INFO  com.epam.port.entity.Port - Ship №8 dock to pier №0
+12.03.2016 22:12:08 [Thread-7] INFO  com.epam.port.entity.Port - There are no free piers
+12.03.2016 22:12:08 [Thread-6] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 1 containers
+12.03.2016 22:12:08 [Thread-7] INFO  com.epam.port.entity.Ship - Action 'unloading from ship' was generated (pier №0)
+12.03.2016 22:12:08 [Thread-6] INFO  com.epam.port.entity.Warehouse - 1container(s) were added to warehouse successfully
+12.03.2016 22:12:08 [Thread-7] INFO  com.epam.port.entity.Ship - Ship №8 tries load to port 2 container(s)
+12.03.2016 22:12:08 [Thread-6] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:08 [Thread-6] INFO  com.epam.port.entity.Ship - Ship №7 loaded to port 1 container(s)
+12.03.2016 22:12:08 [Thread-7] INFO  com.epam.port.entity.Warehouse - Warehouse locked, trying add 2 containers
+12.03.2016 22:12:08 [Thread-7] INFO  com.epam.port.entity.Warehouse - 2container(s) were added to warehouse successfully
+12.03.2016 22:12:08 [Thread-7] INFO  com.epam.port.entity.Warehouse - Warehouse unlocked
+12.03.2016 22:12:08 [Thread-7] INFO  com.epam.port.entity.Ship - Ship №8 loaded to port 2 container(s)
+12.03.2016 22:12:09 [Thread-5] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:12:09 [Thread-5] INFO  com.epam.port.entity.Port - Ship №6 left pier №2
+12.03.2016 22:12:09 [Thread-5] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:12:09 [Thread-5] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:12:11 [Thread-7] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:12:11 [Thread-7] INFO  com.epam.port.entity.Port - Ship №8 left pier №0
+12.03.2016 22:12:11 [Thread-7] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:12:11 [Thread-7] INFO  com.epam.port.entity.Port - Port unlocked
+12.03.2016 22:12:12 [Thread-6] INFO  com.epam.port.entity.Port - Port locked. Ship is trying to leave port
+12.03.2016 22:12:12 [Thread-6] INFO  com.epam.port.entity.Port - Ship №7 left pier №1
+12.03.2016 22:12:12 [Thread-6] INFO  com.epam.port.entity.Port - There is a free pier
+12.03.2016 22:12:12 [Thread-6] INFO  com.epam.port.entity.Port - Port unlocked
